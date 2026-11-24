@@ -1,7 +1,7 @@
 <?php
 try {
     $host = '127.0.0.1';
-    $banco = '';
+    $banco = 'sistema_ordens_servico';
     $usuario = 'root';
     $senha = '';
 
